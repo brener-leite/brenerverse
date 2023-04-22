@@ -1,0 +1,21 @@
+body {
+  font-family:'Nuito', 'Arial Narrow', Arial, sans-serif;
+  background-color: #F6F6F6;
+}
+
+h1 {
+  font-size: 32px;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+}
+
+.container img {
+  width: 100%;
+  max-width: 300px;
+}
